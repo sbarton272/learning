@@ -1,7 +1,0 @@
-numpy
-scipy
-seaborn
-matplotlib
-jupyter
-cvxopt
-cvxpy

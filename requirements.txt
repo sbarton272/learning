@@ -1,0 +1,10 @@
+bokeh
+jupyter
+matplotlib
+pandas
+seaborn
+numpy
+scipy
+cvxopt
+cvxpy
+tensorflow

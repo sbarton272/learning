@@ -8,3 +8,5 @@ scipy
 cvxopt
 cvxpy
 tensorflow
+tqdm
+joblib

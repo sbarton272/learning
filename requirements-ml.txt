@@ -1,0 +1,8 @@
+keras
+tensorflow
+matplotlib
+jupyter
+jupyterlab
+ipython
+scikit-image
+

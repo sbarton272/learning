@@ -1,4 +1,6 @@
 venv/
+venv-ml/
+tensorflow/tensorboard/
 .ipynb_checkpoints/
 .DS_Store
 __pycache__/

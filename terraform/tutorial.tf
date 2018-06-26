@@ -10,7 +10,7 @@ resource "aws_instance" "terraform_tutorial_new" {
   instance_type = "t2.micro"
 
   tags {
-    Name = "terraform_tutorial"
+    Name = "spencers cool machine"
   }
 }
 

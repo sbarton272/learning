@@ -1,3 +1,4 @@
+aiohttp
 bokeh
 jupyter
 matplotlib
@@ -9,5 +10,10 @@ cvxopt
 cvxpy
 tqdm
 joblib
+fastai
 flask
+statsmodels
+jupyterlab
+tensorflow
+tensorflow-probability
 

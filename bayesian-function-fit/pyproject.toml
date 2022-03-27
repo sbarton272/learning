@@ -1,0 +1,21 @@
+[tool.poetry]
+name = "bayesian-function-fit"
+version = "0.1.0"
+description = ""
+authors = ["Spencer Barton <sbarton272@gmail.com>"]
+
+[tool.poetry.dependencies]
+python = ">=3.9,<3.11"
+torch = "^1.11.0"
+pyro-ppl = "^1.8.1"
+jupyterlab = "^3.3.2"
+ipywidgets = "^7.7.0"
+scipy = "1.8.0rc1"
+seaborn = "^0.11.2"
+pandas = "^1.4.1"
+
+[tool.poetry.dev-dependencies]
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"

@@ -9,4 +9,6 @@ __pycache__/
 ml-tools/tensorflow/tensorboard/
 ml-tools/torch/data
 nohup.out
+
 *.pth
+*.onnx

@@ -8,9 +8,9 @@ authors = ["Spencer Barton <sbarton272@gmail.com>"]
 python = "^3.10"
 pandas = "^1.0.1"
 jupyter = "^1.0.0"
-jupyterlab = "^2.0.1"
+jupyterlab = "^3"
 matplotlib = "^3.2.0"
-seaborn = "^0.10.0"
+seaborn = "^0.13.0"
 statsmodels = "^0.14.0"
 transformers = "^4.35.0"
 torch = "^2.1.0"
@@ -19,6 +19,9 @@ torchaudio = "^2.1.0"
 pyro-ppl = "^1.8.6"
 bokeh = "^3.3.0"
 duckdb = "^0.9.1"
+scikit-learn = "^1.3.2"
+jupyterlab-geojson = "^3.4.0"
+jupyterlab-git = "^0.44.0"
 
 [tool.poetry.dev-dependencies]
 

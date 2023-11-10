@@ -6,6 +6,16 @@
         "dockerfile": "Dockerfile",
         "context": ".."
     },
+    "customizations": {
+        // Configure properties specific to VS Code.
+        "vscode": {
+            // Add the IDs of extensions you want installed when the container is created.
+            "extensions": [
+                "streetsidesoftware.code-spell-checker",
+                "ms-python.black-formatter"
+            ]
+        }
+    },
     "forwardPorts": [
         8080
     ],
